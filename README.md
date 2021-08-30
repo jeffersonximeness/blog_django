@@ -6,6 +6,7 @@ Blog feito em Django que permite você:
   -  comentar em outros posts
   -  adicionar tags a seus posts
   -  buscar por posts pelo seu título ou tags atreladas a ele
+  -  compartilhar post por e-mail
 
 O banco de dados utilizado foi o PostgreSQL, para implementação de pesquisa *full-text*.
 
